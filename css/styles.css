@@ -43,7 +43,7 @@ body {
 .section {
     height: 500px;
     overflow: hidden;
-    margin-bottom: 15px;
+    margin-bottom: 33px;
 }
 
 
@@ -62,18 +62,16 @@ body {
 
 
 .chickenTitle {
-    background-color:#557c3e /*#F2694B;*/
+    background-color:#557c3e 
 }
 
 .beefTitle {
-    background-color: #557c3e/*#72CB28;*/
+    background-color: #557c3e
 }
 
 .sushiTitle {
-    background-color: #557c3e/*#28CBB2;*/
+    background-color: #557c3e
 }
 
-#header{
-    padding: 0 15px;
-}
+
 
